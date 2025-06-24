@@ -1,2 +1,2 @@
 important note: 
-done exploite with with Burp Collaborator on public network service , it will lead to ban the NPM account 
+Do not exploit with Burp Collaborator on a public network service, it will lead to ban on the NPM account 
